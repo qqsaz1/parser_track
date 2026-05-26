@@ -5,3 +5,7 @@ venv/
 .env
 .DS_Store
 .vscode/
+build/
+dist/
+*.egg-info/
+main.spec
